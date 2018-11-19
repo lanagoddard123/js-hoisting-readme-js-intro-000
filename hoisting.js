@@ -10,6 +10,7 @@ var thisIsCrazy = function crazy() {
     console.log("hey!!!")
   }
 }
+
 thisIsCrazy();
 
 var name = "Cricky";
